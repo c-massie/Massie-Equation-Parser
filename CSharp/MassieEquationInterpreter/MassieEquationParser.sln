@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassieEquationParser", "MassieEquationParser\MassieEquationParser.csproj", "{04090C55-DA2D-4B99-B492-DFF17FC7EBD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassieEquationParserTests", "MassieEquationParserTests\MassieEquationParserTests.csproj", "{002BC9DE-CD0B-4609-AF05-5F4516E59287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04090C55-DA2D-4B99-B492-DFF17FC7EBD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04090C55-DA2D-4B99-B492-DFF17FC7EBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04090C55-DA2D-4B99-B492-DFF17FC7EBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04090C55-DA2D-4B99-B492-DFF17FC7EBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{002BC9DE-CD0B-4609-AF05-5F4516E59287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{002BC9DE-CD0B-4609-AF05-5F4516E59287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{002BC9DE-CD0B-4609-AF05-5F4516E59287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{002BC9DE-CD0B-4609-AF05-5F4516E59287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
