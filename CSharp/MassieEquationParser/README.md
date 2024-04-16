@@ -4,7 +4,16 @@ This is an equation
 
 ## How to install
 
-(To be written)
+### From Nuget
+
+Include the package `Scot.Massie.EquationParser`
+
+### From Github
+
+1. Go to https://github.com/c-massie/Massie-Equation-Parser/releases
+2. Download the latest `.dll` version of the library
+3. Right-click the project you want to add this to, go to `Add Reference...` in VS, `Add... > Add Reference...` in Rider.
+4. Click the "Add from..."/"Browse" button in the window that opens, and navigate to the .dll file downloaded.
 
 ## How to use
 

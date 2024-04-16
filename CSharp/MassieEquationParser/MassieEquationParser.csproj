@@ -16,6 +16,7 @@
         <RepositoryType>git</RepositoryType>
         <PackageTags>Parser Equation Equations Expression Expressions Configurable ExpressionParser EquationParser C# .NET Math Maths Mathematics Arithmetic</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Scot.Massie.EquationParser</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
