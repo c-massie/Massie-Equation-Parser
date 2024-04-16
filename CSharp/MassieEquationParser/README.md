@@ -1,6 +1,6 @@
 # Massie Equation Parser
 
-This is an equation
+This is an equation parser with support for configuring variables, functions, operators, etc.
 
 ## How to install
 
