@@ -100,6 +100,7 @@ Infix operators can be declared on the equation parser with `.WithInfixOperator(
 ### Bracketed operations
 
 Example:
+
 ```⌊x⌋```
 
 Bracketed operators are wrapped around an equation, or separator-delimited series of equations.

@@ -5,6 +5,16 @@
         <Nullable>enable</Nullable>
         <RootNamespace>Scot.Massie.EquationParser</RootNamespace>
         <LangVersion>8</LangVersion>
+        <Version>0.1</Version>
+        <Title>Massie Equation Parser</Title>
+        <Authors>Chris Massie</Authors>
+        <Description>A parser for configurably parsing and evaluating equations. </Description>
+        <PackageProjectUrl>https://github.com/c-massie/Massie-Equation-Parser</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/c-massie/Massie-Equation-Parser/blob/main/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/c-massie/Massie-Equation-Parser</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>Parser Equation Equations Expression Expressions Configurable ExpressionParser EquationParser C# .NET Math Maths Mathematics Arithmetic</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
 </Project>
