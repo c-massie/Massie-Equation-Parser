@@ -9,6 +9,7 @@
         <Title>Massie Equation Parser</Title>
         <Authors>Chris Massie</Authors>
         <Description>A parser for configurably parsing and evaluating equations. </Description>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageProjectUrl>https://github.com/c-massie/Massie-Equation-Parser</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/c-massie/Massie-Equation-Parser/blob/main/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/c-massie/Massie-Equation-Parser</RepositoryUrl>
@@ -16,5 +17,9 @@
         <PackageTags>Parser Equation Equations Expression Expressions Configurable ExpressionParser EquationParser C# .NET Math Maths Mathematics Arithmetic</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="README.md" Pack="true" PackagePath="/"/>
+    </ItemGroup>
 
 </Project>
